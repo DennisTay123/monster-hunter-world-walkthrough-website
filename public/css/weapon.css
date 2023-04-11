@@ -1,0 +1,612 @@
+.e138_711 { 
+	overflow:hidden;
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e138_711 { 
+	background-color:rgba(46.000001057982445, 50.000000819563866, 54.00000058114529, 1);
+	width:1440px;
+	height:1150px;
+	position:absolute;
+	margin: 0;
+}
+.e138_712 { 
+	width:722.3720703125px;
+	height:131px;
+	position:absolute;
+	left:372px;
+	top:949px;
+}
+.e138_713 { 
+	width:100px;
+	height:130px;
+	position:absolute;
+	left:0px;
+	top:1px;
+}
+.e138_714 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/bow.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_715 { 
+	color:rgba(255, 255, 255, 1);
+	width:55.8139533996582px;
+	height:30px;
+	position:absolute;
+	left:22.0930233001709px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_716 { 
+	width:180.23255920410156px;
+	height:130px;
+	position:absolute;
+	left:248px;
+	top:0px;
+}
+.e138_717 { 
+	width:80.30323028564453px;
+	height:100px;
+	position:absolute;
+	left:49.964664459228516px;
+	top:0px;
+	background-image:url(images/light_bowgun.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_718 { 
+	color:rgba(255, 255, 255, 1);
+	width:180.23255920410156px;
+	height:30px;
+	position:absolute;
+	left:0.00006103515625px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_719 { 
+	width:188.37208557128906px;
+	height:130px;
+	position:absolute;
+	left:534px;
+	top:1px;
+}
+.e138_720 { 
+	width:80.30323028564453px;
+	height:100px;
+	position:absolute;
+	left:54.034427642822266px;
+	top:0px;
+	background-image:url(images/heavy_bowgun.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_721 { 
+	color:rgba(255, 255, 255, 1);
+	width:188.37208557128906px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_722 { 
+	color:rgba(255, 255, 255, 1);
+	width:134px;
+	height:60px;
+	position:absolute;
+	left:300px;
+	top:860px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e138_723 { 
+	width:1020px;
+	height:500px;
+	position:absolute;
+	left:350px;
+	top:280px;
+}
+.e138_724 { 
+	width:173.25579833984375px;
+	height:130px;
+	position:absolute;
+	left:275px;
+	top:370px;
+}
+.e138_725 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:39.53497314453125px;
+	top:0px;
+	background-image:url(images/charge_blade.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_726 { 
+	color:rgba(255, 255, 255, 1);
+	width:173.25579833984375px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_727 { 
+	width:140.69766235351562px;
+	height:130px;
+	position:absolute;
+	left:1px;
+	top:370px;
+}
+.e138_728 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:23.255828857421875px;
+	top:0px;
+	background-image:url(images/switch_axe.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_729 { 
+	color:rgba(255, 255, 255, 1);
+	width:140.69766235351562px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_730 { 
+	width:163.9534912109375px;
+	height:130px;
+	position:absolute;
+	left:568px;
+	top:370px;
+}
+.e138_731 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:36.0465087890625px;
+	top:0px;
+	background-image:url(images/insect_glaive.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_732 { 
+	color:rgba(255, 255, 255, 1);
+	width:163.9534912109375px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_733 { 
+	width:143px;
+	height:130px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e138_734 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:22px;
+	top:0px;
+	background-image:url(images/great_sword.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_735 { 
+	color:rgba(255, 255, 255, 1);
+	width:143px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_736 { 
+	width:134px;
+	height:130px;
+	position:absolute;
+	left:295px;
+	top:0px;
+}
+.e138_737 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:17px;
+	top:0px;
+	background-image:url(images/long_sword.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_738 { 
+	color:rgba(255, 255, 255, 1);
+	width:134px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_739 { 
+	width:132px;
+	height:130px;
+	position:absolute;
+	left:584px;
+	top:0px;
+}
+.e138_740 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:16px;
+	top:0px;
+	background-image:url(images/dual_blades.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_741 { 
+	color:rgba(255, 255, 255, 1);
+	width:132px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_742 { 
+	width:170px;
+	height:130px;
+	position:absolute;
+	left:850px;
+	top:0px;
+}
+.e138_743 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:35px;
+	top:0px;
+	background-image:url(images/sword_shield.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_744 { 
+	color:rgba(255, 255, 255, 1);
+	width:170px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_745 { 
+	width:100px;
+	height:130px;
+	position:absolute;
+	left:22px;
+	top:170px;
+}
+.e138_746 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/hammer.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_747 { 
+	color:rgba(255, 255, 255, 1);
+	width:93px;
+	height:30px;
+	position:absolute;
+	left:4px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_748 { 
+	width:160px;
+	height:130px;
+	position:absolute;
+	left:280px;
+	top:170px;
+}
+.e138_749 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:30px;
+	top:0px;
+	background-image:url(images/hunting_horn.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_750 { 
+	color:rgba(255, 255, 255, 1);
+	width:160px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_751 { 
+	width:100px;
+	height:130px;
+	position:absolute;
+	left:600px;
+	top:170px;
+}
+.e138_752 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/lance.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_753 { 
+	color:rgba(255, 255, 255, 1);
+	width:62px;
+	height:30px;
+	position:absolute;
+	left:19px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_754 { 
+	width:107px;
+	height:130px;
+	position:absolute;
+	left:882px;
+	top:170px;
+}
+.e138_755 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:4px;
+	top:0px;
+	background-image:url(images/gunlance.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_756 { 
+	color:rgba(255, 255, 255, 1);
+	width:107px;
+	height:30px;
+	position:absolute;
+	left:0px;
+	top:100px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e138_757 { 
+	color:rgba(255, 255, 255, 1);
+	width:129px;
+	height:60px;
+	position:absolute;
+	left:300px;
+	top:200px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e138_758 { 
+	background-color:rgba(31.79355327039957, 35.70197984576225, 40.587514489889145, 1);
+	width:250px;
+	height:970px;
+	position:absolute;
+	left:0px;
+	top:180px;
+}
+.e138_759 { 
+	color:rgba(255, 255, 255, 1);
+	width:190px;
+	height:38px;
+	position:absolute;
+	left:30px;
+	top:30px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e138_760 { 
+	color:rgba(255, 255, 255, 1);
+	width:190px;
+	height:38px;
+	position:absolute;
+	left:30px;
+	top:98px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e138_761 { 
+	color:rgba(255, 255, 255, 1);
+	width:190px;
+	height:38px;
+	position:absolute;
+	left:30px;
+	top:166px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e138_762 { 
+	width:1440px;
+	height:180px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e138_763 { 
+	width:1440px;
+	height:180px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/header_image.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e138_764 { 
+	width:144px;
+	height:25px;
+	position:absolute;
+	left:880px;
+	top:10px;
+}
+.e138_765 { 
+	color:rgba(255, 255, 255, 1);
+	width:51px;
+	height:25px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e138_766 { 
+	color:rgba(255, 255, 255, 1);
+	width:73px;
+	height:25px;
+	position:absolute;
+	left:71px;
+	top:0px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e138_767 { 
+	width:603px;
+	height:45px;
+	position:absolute;
+	left:350px;
+	top:110px;
+}
+.e138_768 { 
+	color:rgba(255, 255, 255, 1);
+	width:94px;
+	height:45px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e138_773 { 
+	color:rgba(255, 255, 255, 1);
+	width:162px;
+	height:45px;
+	position:absolute;
+	left:144px;
+	top:0px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e138_769 { 
+	color:rgba(255, 255, 255, 1);
+	width:85px;
+	height:45px;
+	position:absolute;
+	left:356px;
+	top:0px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e138_770 { 
+	color:rgba(255, 255, 255, 1);
+	width:112px;
+	height:45px;
+	position:absolute;
+	left:491px;
+	top:0px;
+	font-family:Marcellus SC;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e138_771 { 
+	width:260.86956787109375px;
+	height:120px;
+	position:absolute;
+	left:40px;
+	top:30px;
+	background-image:url(images/logo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
