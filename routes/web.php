@@ -21,9 +21,12 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
 Route::view('weapon', 'weapon');
 Route::view('monster', 'monster');
 Route::view('monsterDetail', 'monsterDetail');
 Route::view('armor', 'armor');
 Route::view('posts', 'posts');
 Route::view('profile', 'profile');
+
+Route::view('/example', 'example');
